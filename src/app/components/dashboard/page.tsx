@@ -18,7 +18,6 @@ const getLocalStorageItems = () => {
     return [];
   }
 };
-
 const Dashboard = () => {
   const [task, setTask] = useState({
     title: "",
@@ -229,5 +228,4 @@ const Dashboard = () => {
     </div>
   );
 };
-
 export default Dashboard;
