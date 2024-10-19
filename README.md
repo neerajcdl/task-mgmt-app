@@ -22,3 +22,4 @@ To run this project locally, follow these steps:
    cd <repository-folder>
 
 **npm install** and last for show preview **npm run dev**
+# task-mgmt-app
